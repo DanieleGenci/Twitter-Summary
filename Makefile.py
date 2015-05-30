@@ -551,22 +551,3 @@ R6.pack()
 label = Label(root)
 label.pack()
 root.mainloop()
-
-"""print "#1st block:",block_list_copy[0]
-for tweet in block1:
-     print tweet
-print "#2st block:",block_list_copy[1]
-for tweet in block2:
-     print tweet
-print "#3st block:",block_list_copy[2]
-for tweet in block3:
-     print tweet
-print "#4st block:",block_list_copy[3]
-for tweet in block4:
-     print tweet
-print "#5st block:",block_list_copy[4]
-for tweet in block5:
-     print tweet
-print "#6st block:",block_list_copy[5]
-for tweet in block6:
-     print tweet"""
