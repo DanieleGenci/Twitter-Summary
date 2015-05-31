@@ -1,7 +1,7 @@
 # Twitter-Summary
 Our code is divided in 3 part:
 
-1st file is named by_id_download.py, to be run must be installed python version 2.8 and tweppy library.
+1st file is named by_id_download.py, to be run must be installed python version 2.7.9 (important use this version and not the next one) and tweppy library.
 (in IOS terminal)>> pip install tweepy
 Notice: to run the code it's needed to attach the "id_list" file found in the repository.  
 This file permits us to download a list of tweets inherent to a specific event, consider the id(readme) file with the list of possible event. Changing the two number value in first "for cycle" and running the code, downloads tweets' text inherent a select event. Automatically saves it in a txt file named "event_text.txt".
