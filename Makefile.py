@@ -504,7 +504,7 @@ def sel2():
           print tweet
      print "---------------------------------------------------------------"
 def sel3():
-     print "#3th block:"
+     print "#3rd block:"
      for tweet in block3:
           print tweet
      print "---------------------------------------------------------------"
@@ -536,7 +536,7 @@ R1.pack()
 R2 = Radiobutton(root, text="2nd block",command=sel2)
 R2.pack()
 
-R3 = Radiobutton(root, text="3th block",command=sel3)
+R3 = Radiobutton(root, text="3rd block",command=sel3)
 R3.pack()
 
 R4 = Radiobutton(root, text="4th block",command=sel4)
